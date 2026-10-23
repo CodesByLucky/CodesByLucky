@@ -94,10 +94,6 @@
   <a href="https://leetgpu.com/CodeByLucky"><img src="assets/leetgpu-progress.svg" width="49%" alt="LeetGPU progress by difficulty, language and GPU" /></a>
 </p>
 
-<p align="center">
-  <a href="https://leetgpu.com/CodeByLucky"><img src="assets/leetgpu-activity.svg" width="98%" alt="LeetGPU submission activity" /></a>
-</p>
-
 <p align="center"><sub>Auto-updated every 6 hours from my LeetGPU profile</sub></p>
 
 ---
