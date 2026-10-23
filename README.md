@@ -1,11 +1,9 @@
 <h1 align="center">Hi there, I'm Lucky Samant 👋</h1>
 <h3 align="center">AI/ML Engineer · LLM Agents · MCP · RAG · Quantum ML for Cyber Defense</h3>
 
-
 <p align="center">
   <a href="https://luckysamant.in"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+agents+with+MCP+%26+LLMs;RAG+pipelines+%26+NLP+systems;Quantum+Reinforcement+Learning;Open+to+AI%2FML+roles" alt="Typing SVG" /></a>
 </p>
-
 
 <p align="center">
   <a href="https://luckysamant.in"><img src="https://img.shields.io/badge/Website-luckysamant.in-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
@@ -13,39 +11,38 @@
   <a href="https://github.com/CodesByLucky"><img src="https://img.shields.io/github/followers/CodesByLucky?label=Follow&style=for-the-badge&logo=github&color=24292e" alt="GitHub followers" /></a>
 </p>
 
-
 ---
-
 
 ## 🧑‍💻 About Me
 
-
 - 🤖 I build **AI agents and LLM systems**: MCP servers, RAG pipelines and tool-using agents on the OpenAI Agents SDK, LangChain and LangGraph.
+- 🧬 Strong in **Deep Learning & Neural Networks**: building and training models in PyTorch, from Deep Q-Networks to embedding-based classifiers.
+- ⚡ Sharpening **GPU programming** by solving kernel challenges on [LeetGPU](https://leetgpu.com/CodeByLucky).
 - ⚛️ I work on **Quantum Machine Learning**: trained a hybrid quantum DQN for cyber-threat classification on IBM's 156-qubit `ibm_fez` processor.
 - 🧠 I like ML systems that are **cheap and reliable**: regex → embeddings → LLM routing, confidence thresholds, controlled experiments.
 - 🔐 Background in **Cyber Security & Digital Forensics**, so security is part of how I build.
 - 🎯 **Open to AI/ML, GenAI and LLM Engineer roles.**
 
-
 ---
-
 
 ## 🛠️ Tech Stack
 
-
 **Languages**
-
 
 <p>
   <img src="https://skillicons.dev/icons?i=py,cpp,java,mysql&theme=dark" alt="Languages" />
 </p>
 
-
-**Machine Learning & Data**
-
+**Machine Learning & Deep Learning**
 
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" alt="ML" />
+  <br/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-D00000?style=for-the-badge" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Neural%20Networks-8E44AD?style=for-the-badge" alt="Neural Networks" />
+  <img src="https://img.shields.io/badge/Reinforcement%20Learning-2E86C1?style=for-the-badge" alt="Reinforcement Learning" />
+  <img src="https://img.shields.io/badge/NLP-117A65?style=for-the-badge" alt="NLP" />
+  <img src="https://img.shields.io/badge/Supervised%20%26%20Unsupervised%20Learning-34495E?style=for-the-badge" alt="Supervised and Unsupervised Learning" />
   <br/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
@@ -53,9 +50,7 @@
   <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" alt="Qiskit" />
 </p>
 
-
 **LLMs, Agents & GenAI**
-
 
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
@@ -67,9 +62,7 @@
   <img src="https://img.shields.io/badge/Vector%20DBs-00A98F?style=for-the-badge" alt="Vector Databases" />
 </p>
 
-
 **Backend, Cloud & Tools**
-
 
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,docker,aws,linux,git,github,postman,mongodb&theme=dark" alt="Tools" />
@@ -77,12 +70,9 @@
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </p>
 
-
 ---
 
-
 ## 🚀 Featured Projects
-
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -91,37 +81,44 @@
 | [📊 NLP Log Classification](https://github.com/CodesByLucky/NLP-Log-Classification) | Three-tier log classifier (regex → embeddings + LR → LLM), 0.99 accuracy on held-out logs, served via FastAPI | Sentence Transformers · DBSCAN · Groq · FastAPI |
 | [🦅 ASN Eagle](https://github.com/CodesByLucky/ASN_Eagle) | Finds the ASN of any website and lists all the IP ranges it owns | Python · Networking |
 
-
 ---
 
-
 ## 📈 GitHub Stats
-
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=CodesByLucky&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodesByLucky&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=CodesByLucky&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
+---
+
+## ⚡ LeetGPU Stats
+
+<p align="center">
+  <a href="https://leetgpu.com/CodeByLucky"><img src="https://img.shields.io/badge/LeetGPU-@CodeByLucky-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="LeetGPU profile" /></a>
+  <br/>
+  <a href="https://leetgpu.com/CodeByLucky"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.leetgpu.com%2Fapi%2Fv1%2Fprofiles%2FCodeByLucky&query=%24.languages.pytorch.solved&label=Problems%20Solved&color=1f6feb&style=for-the-badge" alt="Problems solved" /></a>
+  <a href="https://leetgpu.com/CodeByLucky"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.leetgpu.com%2Fapi%2Fv1%2Fprofiles%2FCodeByLucky&query=%24.solvedProblems.easy.solved&label=Easy&color=2ea043&style=for-the-badge" alt="Easy solved" /></a>
+  <a href="https://leetgpu.com/CodeByLucky"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.leetgpu.com%2Fapi%2Fv1%2Fprofiles%2FCodeByLucky&query=%24.solvedProblems.medium.solved&label=Medium&color=d29922&style=for-the-badge" alt="Medium solved" /></a>
+  <a href="https://leetgpu.com/CodeByLucky"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.leetgpu.com%2Fapi%2Fv1%2Fprofiles%2FCodeByLucky&query=%24.solvedProblems.hard.solved&label=Hard&color=da3633&style=for-the-badge" alt="Hard solved" /></a>
+  <br/>
+  <a href="https://leetgpu.com/CodeByLucky"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.leetgpu.com%2Fapi%2Fv1%2Fprofiles%2FCodeByLucky&query=%24.totalSubmissions&label=Submissions&color=6e7681&style=for-the-badge" alt="Total submissions" /></a>
+  <a href="https://leetgpu.com/CodeByLucky"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.leetgpu.com%2Fapi%2Fv1%2Fprofiles%2FCodeByLucky&query=%24.successfulSubmissions&label=Accepted&color=238636&style=for-the-badge" alt="Accepted submissions" /></a>
+</p>
 
 ---
 
-
 ## 🏅 Certifications
-
 
 - 🛡️ **Cybersecurity Analyst**, IBM
 - 👤 **Face Recognition Application**, HCL GUVI
 - 🗄️ **SQL (Intermediate)**, HackerRank
 
-
 ---
-
 
 <p align="center">
   <b>Let's connect and build something intelligent together!</b><br/>
