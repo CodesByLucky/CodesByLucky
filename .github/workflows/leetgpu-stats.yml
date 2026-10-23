@@ -1,0 +1,39 @@
+name: Update LeetGPU stats
+
+on:
+  schedule:
+    - cron: "23 */6 * * *" # every 6 hours
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/scripts/leetgpu_card.py"
+      - ".github/workflows/leetgpu-stats.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: leetgpu-stats
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Generate LeetGPU cards
+        run: python3 .github/scripts/leetgpu_card.py
+
+      - name: Commit updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/ 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update LeetGPU stats"
+            git push
+          fi
