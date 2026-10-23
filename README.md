@@ -15,13 +15,13 @@
 
 ## 🧑‍💻 About Me
 
-- 🤖 I build **AI agents and LLM systems**: MCP servers, RAG pipelines and tool-using agents on the OpenAI Agents SDK, LangChain and LangGraph.
-- 🧬 Strong in **Deep Learning & Neural Networks**: building and training models in PyTorch, from Deep Q-Networks to embedding-based classifiers.
-- ⚡ Sharpening **GPU programming** by solving kernel challenges on [LeetGPU](https://leetgpu.com/CodeByLucky).
-- ⚛️ I work on **Quantum Machine Learning**: trained a hybrid quantum DQN for cyber-threat classification on IBM's 156-qubit `ibm_fez` processor.
-- 🧠 I like ML systems that are **cheap and reliable**: regex → embeddings → LLM routing, confidence thresholds, controlled experiments.
-- 🔐 Background in **Cyber Security & Digital Forensics**, so security is part of how I build.
-- 🎯 **Open to AI/ML, GenAI and LLM Engineer roles.**
+- I build **AI agents and LLM systems**: MCP servers, RAG pipelines and tool-using agents on the OpenAI Agents SDK, LangChain and LangGraph.
+- Strong in **Deep Learning & Neural Networks**: building and training models in PyTorch, from Deep Q-Networks to embedding-based classifiers.
+- Sharpening **GPU programming** by solving kernel challenges on [LeetGPU](https://leetgpu.com/CodeByLucky).
+- I work on **Quantum Machine Learning**: trained a hybrid quantum DQN for cyber-threat classification on IBM's 156-qubit `ibm_fez` processor.
+- I like ML systems that are **cheap and reliable**: regex → embeddings → LLM routing, confidence thresholds, controlled experiments.
+- Background in **Cyber Security & Digital Forensics**, so security is part of how I build.
+- **Open to AI/ML, GenAI and LLM Engineer roles.**
 
 ---
 
