@@ -17,19 +17,19 @@
 <rect x="0.5" y="0.5" rx="6" width="494" height="194" fill="#1a1b27" stroke="#2a2e42"/>
 <text x="25" y="35" class="t">Lucky Samant's LeetGPU Stats</text>
 <g class="fade" style="animation-delay:0.00s"><circle cx="31" cy="61" r="4" fill="#2dd4bf"/><text x="43" y="66" class="l">Global Rank:</text><text x="190" y="66" class="rank">#56 · PyTorch</text></g>
-<g class="fade" style="animation-delay:0.15s"><circle cx="31" cy="83" r="4" fill="#38bdae"/><text x="43" y="88" class="l">Global Score:</text><text x="190" y="88" class="v">4,860</text></g>
-<g class="fade" style="animation-delay:0.30s"><circle cx="31" cy="105" r="4" fill="#38bdae"/><text x="43" y="110" class="l">Problems Solved:</text><text x="190" y="110" class="v">36 / 141</text></g>
+<g class="fade" style="animation-delay:0.15s"><circle cx="31" cy="83" r="4" fill="#38bdae"/><text x="43" y="88" class="l">Global Score:</text><text x="190" y="88" class="v">4,863</text></g>
+<g class="fade" style="animation-delay:0.30s"><circle cx="31" cy="105" r="4" fill="#38bdae"/><text x="43" y="110" class="l">Problems Solved:</text><text x="190" y="110" class="v">36 / 142</text></g>
 <g class="fade" style="animation-delay:0.45s"><circle cx="31" cy="127" r="4" fill="#38bdae"/><text x="43" y="132" class="l">Total Submissions:</text><text x="190" y="132" class="v">52</text></g>
 <g class="fade" style="animation-delay:0.60s"><circle cx="31" cy="149" r="4" fill="#38bdae"/><text x="43" y="154" class="l">Success Rate:</text><text x="190" y="154" class="v">90.4%</text></g>
 <g class="fade" style="animation-delay:0.75s"><circle cx="31" cy="171" r="4" fill="#38bdae"/><text x="43" y="176" class="l">Current Streak:</text><text x="190" y="176" class="v">0 days</text></g>
 <g transform="rotate(-90 400 108)">
   <circle cx="400" cy="108" r="46" stroke="#2a2e42" stroke-width="8"/>
   <circle cx="400" cy="108" r="46" stroke="#2dd4bf" stroke-width="8" stroke-linecap="round"
-    stroke-dasharray="73.79 289.03" stroke-dashoffset="0">
-    <animate attributeName="stroke-dashoffset" from="73.79" to="0" dur="1.2s" fill="freeze"/>
+    stroke-dasharray="73.27 289.03" stroke-dashoffset="0">
+    <animate attributeName="stroke-dashoffset" from="73.27" to="0" dur="1.2s" fill="freeze"/>
   </circle>
 </g>
 <text x="400" y="112" text-anchor="middle" class="big">36</text>
-<text x="400" y="130" text-anchor="middle" class="s">of 141 solved</text>
+<text x="400" y="130" text-anchor="middle" class="s">of 142 solved</text>
 <text x="400" y="182" text-anchor="middle" class="s">Favorite GPU: NVIDIA Tesla T4</text>
 </svg>
