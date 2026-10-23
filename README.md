@@ -83,32 +83,22 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CodesByLucky&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodesByLucky&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=CodesByLucky&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
 ## ⚡ LeetGPU Stats
 
 <p align="center">
   <a href="https://leetgpu.com/CodeByLucky"><img src="https://img.shields.io/badge/LeetGPU-@CodeByLucky-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="LeetGPU profile" /></a>
-  <br/>
-  <a href="https://leetgpu.com/CodeByLucky"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.leetgpu.com%2Fapi%2Fv1%2Fprofiles%2FCodeByLucky&query=%24.languages.pytorch.solved&label=Problems%20Solved&color=1f6feb&style=for-the-badge" alt="Problems solved" /></a>
-  <a href="https://leetgpu.com/CodeByLucky"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.leetgpu.com%2Fapi%2Fv1%2Fprofiles%2FCodeByLucky&query=%24.solvedProblems.easy.solved&label=Easy&color=2ea043&style=for-the-badge" alt="Easy solved" /></a>
-  <a href="https://leetgpu.com/CodeByLucky"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.leetgpu.com%2Fapi%2Fv1%2Fprofiles%2FCodeByLucky&query=%24.solvedProblems.medium.solved&label=Medium&color=d29922&style=for-the-badge" alt="Medium solved" /></a>
-  <a href="https://leetgpu.com/CodeByLucky"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.leetgpu.com%2Fapi%2Fv1%2Fprofiles%2FCodeByLucky&query=%24.solvedProblems.hard.solved&label=Hard&color=da3633&style=for-the-badge" alt="Hard solved" /></a>
-  <br/>
-  <a href="https://leetgpu.com/CodeByLucky"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.leetgpu.com%2Fapi%2Fv1%2Fprofiles%2FCodeByLucky&query=%24.totalSubmissions&label=Submissions&color=6e7681&style=for-the-badge" alt="Total submissions" /></a>
-  <a href="https://leetgpu.com/CodeByLucky"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.leetgpu.com%2Fapi%2Fv1%2Fprofiles%2FCodeByLucky&query=%24.successfulSubmissions&label=Accepted&color=238636&style=for-the-badge" alt="Accepted submissions" /></a>
 </p>
+
+<p align="center">
+  <a href="https://leetgpu.com/CodeByLucky"><img src="assets/leetgpu-stats.svg" width="49%" alt="LeetGPU stats: global rank, score, problems solved" /></a>
+  <a href="https://leetgpu.com/CodeByLucky"><img src="assets/leetgpu-progress.svg" width="49%" alt="LeetGPU progress by difficulty, language and GPU" /></a>
+</p>
+
+<p align="center">
+  <a href="https://leetgpu.com/CodeByLucky"><img src="assets/leetgpu-activity.svg" width="98%" alt="LeetGPU submission activity" /></a>
+</p>
+
+<p align="center"><sub>Auto-updated every 6 hours from my LeetGPU profile</sub></p>
 
 ---
 
