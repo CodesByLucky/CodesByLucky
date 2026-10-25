@@ -17,7 +17,7 @@
 <rect x="0.5" y="0.5" rx="6" width="494" height="194" fill="#1a1b27" stroke="#2a2e42"/>
 <text x="25" y="35" class="t">Lucky Samant's LeetGPU Stats</text>
 <g class="fade" style="animation-delay:0.00s"><circle cx="31" cy="61" r="4" fill="#2dd4bf"/><text x="43" y="66" class="l">Global Rank:</text><text x="190" y="66" class="rank">#57 · PyTorch</text></g>
-<g class="fade" style="animation-delay:0.15s"><circle cx="31" cy="83" r="4" fill="#38bdae"/><text x="43" y="88" class="l">Global Score:</text><text x="190" y="88" class="v">4,867</text></g>
+<g class="fade" style="animation-delay:0.15s"><circle cx="31" cy="83" r="4" fill="#38bdae"/><text x="43" y="88" class="l">Global Score:</text><text x="190" y="88" class="v">4,866</text></g>
 <g class="fade" style="animation-delay:0.30s"><circle cx="31" cy="105" r="4" fill="#38bdae"/><text x="43" y="110" class="l">Problems Solved:</text><text x="190" y="110" class="v">36 / 142</text></g>
 <g class="fade" style="animation-delay:0.45s"><circle cx="31" cy="127" r="4" fill="#38bdae"/><text x="43" y="132" class="l">Total Submissions:</text><text x="190" y="132" class="v">52</text></g>
 <g class="fade" style="animation-delay:0.60s"><circle cx="31" cy="149" r="4" fill="#38bdae"/><text x="43" y="154" class="l">Success Rate:</text><text x="190" y="154" class="v">90.4%</text></g>
