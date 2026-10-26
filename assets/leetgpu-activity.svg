@@ -388,6 +388,7 @@
 <rect x="900" y="157" width="13" height="13" rx="2" fill="#262a3b"/>
 <rect x="900" y="174" width="13" height="13" rx="2" fill="#262a3b"/>
 <rect x="917" y="72" width="13" height="13" rx="2" fill="#262a3b"/>
+<rect x="917" y="89" width="13" height="13" rx="2" fill="#262a3b"/>
 <text x="18" y="99" class="s">Mon</text>
 <text x="18" y="133" class="s">Wed</text>
 <text x="18" y="167" class="s">Fri</text>
